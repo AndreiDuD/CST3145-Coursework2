@@ -1,0 +1,9 @@
+{
+  "name": "cst3145-couserwork2",
+  "author": "Andrei Duduman",
+  "version": "1.0",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "mustache": "^4.1.0"
+  }
+}
